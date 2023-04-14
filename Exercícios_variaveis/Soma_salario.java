@@ -1,4 +1,4 @@
-package Exercício_1;
+package Exercícios_variaveis;
 import java.util.Locale;
 import java.util.Scanner;
 public class Soma_salario {

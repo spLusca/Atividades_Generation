@@ -1,4 +1,4 @@
-package Exerício_4;
+package Exercícios_variaveis;
 import java.util.Scanner;
 import java.util.Locale;
 public class main {

@@ -1,4 +1,4 @@
-package Exercício_2;
+package Exercícios_variaveis;
 import java.util.Scanner;
 import java.util.Locale;
 public class Media_soma_de_notas {

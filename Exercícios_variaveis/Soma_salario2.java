@@ -1,7 +1,7 @@
-package Exercício_3;
+package Exercícios_variaveis;
 import java.util.Scanner;
 import java.util.Locale;
-public class Soma_salario {
+public class Soma_salario2 {
     public static void main(String[] args){
         Locale.setDefault(Locale.US);
         Scanner leia = new Scanner(System.in);
