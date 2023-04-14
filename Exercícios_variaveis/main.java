@@ -1,4 +1,4 @@
-package main;
+package Exerício_4;
 import java.util.Scanner;
 import java.util.Locale;
 public class main {
