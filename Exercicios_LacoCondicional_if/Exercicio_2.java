@@ -19,6 +19,7 @@ public class Exercicio_2 {
         } else {
             System.out.println("negativo!");
         }
+        leia.close();
     }
 }
 
